@@ -1,0 +1,6 @@
+__pycache__/
+faiss_db/
+uploads/
+extracted_text/
+*.pyc
+.env
